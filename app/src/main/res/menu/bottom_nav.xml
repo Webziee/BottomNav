@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Buy Car" android:id="@+id/buycar" android:icon="@drawable/outline_directions_car_24"/>
+    <item android:title="Sell Car" android:id="@+id/sellcar" android:icon="@drawable/outline_attach_money_24"/>
+    <item android:title="Profile" android:id="@+id/profile" android:icon="@drawable/outline_account_circle_24"/>
+    <item android:title="Settings" android:id="@+id/alert" android:icon="@drawable/baseline_settings_24"/>
+</menu>
